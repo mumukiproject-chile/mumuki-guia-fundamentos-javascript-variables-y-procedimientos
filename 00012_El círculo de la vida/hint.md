@@ -1,0 +1,1 @@
+El perímetro se calcula como dos veces pi por el radio de una círculo. El área, en cambio, es el resultado de hacer pi por radio por radio.
