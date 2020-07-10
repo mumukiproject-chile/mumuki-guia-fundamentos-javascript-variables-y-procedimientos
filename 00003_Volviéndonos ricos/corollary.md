@@ -7,4 +7,4 @@ x -= y; //equivalente a x = x - y;
 x++;    //equivalente a x = x + 1;
 ```
 
-¡Usalos cuando quieras! :wink:
+¡Úsalos cuando quieras! :wink:

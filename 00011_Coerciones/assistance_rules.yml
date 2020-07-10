@@ -1,7 +1,7 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - "* Not:Uses:imprimir"
-  then: esta función no debe imprimir la frase de los elefantes, sino _retornarla_
+  - !ruby 
+    when: !ruby
+      these_expectations_failed:
+        - "* Not:Uses:imprimir"
+    then: esta función no debe imprimir la frase de los elefantes, sino _retornarla_

@@ -1,4 +1,4 @@
-Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para pensar: ¿qué pasa si intento **usar** una variable a la que nunca le asigné un valor? :scream:
+Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para pensar: ¿qué pasa si intento **usar** una variable a la que nunca asigné un valor? :scream:
 
 Tenemos esta función definida:
 
@@ -8,4 +8,4 @@ function sumaSinSentido() {
 }
 ```
 
-> Probala en la consola y fijate qué sucede.
+> Pruébala en la consola y fíjate en lo que sucede.

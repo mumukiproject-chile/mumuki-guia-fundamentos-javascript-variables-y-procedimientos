@@ -1,10 +1,10 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_right
 editor: 0
 type: playground
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices: [ ]
 name: Impresión por pantalla

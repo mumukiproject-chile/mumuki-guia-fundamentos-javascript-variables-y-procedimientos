@@ -8,4 +8,4 @@ function funcionEgocentrica() {
 }
 ```
 
-> Probá `funcionEgocentrica` en la consola.
+> Prueba `funcionEgocentrica` en la consola.

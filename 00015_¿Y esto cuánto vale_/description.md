@@ -1,5 +1,5 @@
 
-Vimos que una variable solo puede tener un valor, entonces cada vez que le asignamos uno nuevo, perdemos el anterior. Entonces, dada la función:
+Vimos que una variable sólo puede tener un valor, entonces, cada vez que le asignamos uno nuevo, perdemos el anterior. Entonces, dada la función:
 
 ``` javascript
 function cuentaLoca() {

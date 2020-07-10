@@ -1,7 +1,7 @@
-¿Cómo usar `aumentarFortuna`? Por ejemplo así: 
+¿Cómo usar `aumentarFortuna`? Por ejemplo, así:
 
 ```javascript
-// Consulto la varible a ver cuanto tiene:
+// Consulto la variable para ver cuánto tiene:
 ム pesosEnMiBilletera 
 500 // ¡Ojo! Esto es a fines ilustrativos; 
     // ¡podría tener cualquier cantidad!

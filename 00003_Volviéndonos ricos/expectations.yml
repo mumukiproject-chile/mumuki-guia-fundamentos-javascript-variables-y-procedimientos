@@ -1,11 +1,11 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: DeclaresComputationWithArity0:aumentarFortuna
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Not:SourceContains:return
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Assigns:pesosEnMiBilletera
+  - !ruby 
+    binding: "*"
+    inspection: DeclaresComputationWithArity0:aumentarFortuna
+  - !ruby 
+    binding: "*"
+    inspection: Not:SourceContains:return
+  - !ruby 
+    binding: "*"
+    inspection: Assigns:pesosEnMiBilletera
