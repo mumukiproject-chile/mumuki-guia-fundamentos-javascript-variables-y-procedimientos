@@ -1,4 +1,4 @@
-¿Qué acabamos de hacer con esto? Al igual que `Poner(bolita)`, `imprimir` es una funcionalidad que siempre está disponible. Si llamamos la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas:
+¿Qué acabamos de hacer con esto? Al igual que `Poner(bolita)`, `imprimir` es una funcionalidad que siempre está disponible. Si llamamos la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas: 
 
 ```
 soy una función que imprime por pantalla
