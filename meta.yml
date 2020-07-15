@@ -7,16 +7,16 @@ teacher_info: ''
 language: javascript
 id_format: "%05d"
 order:
-  - 6
-  - 9
-  - 10
-  - 5
-  - 1
-  - 11
-  - 12
-  - 13
-  - 14
-  - 4
-  - 3
-  - 15
+- 6
+- 9
+- 10
+- 5
+- 1
+- 11
+- 12
+- 13
+- 14
+- 4
+- 3
+- 15
 private: false

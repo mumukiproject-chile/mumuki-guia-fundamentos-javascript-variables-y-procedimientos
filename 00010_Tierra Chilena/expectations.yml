@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:versosTierraChilena
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity0:versosTierraChilena
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: versosTierraChilena
+  inspection: Uses:imprimir

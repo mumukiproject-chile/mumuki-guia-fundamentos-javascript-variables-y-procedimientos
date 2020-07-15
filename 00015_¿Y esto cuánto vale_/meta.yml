@@ -1,6 +1,6 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_bottom
 editor: single_choice
 type: problem
@@ -8,19 +8,19 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-  - !ruby 
-    value: '`"numero"`'
-    checked: false
-  - !ruby 
-    value: "`8`"
-    checked: false
-  - !ruby 
-    value: "`16`"
-    checked: false
-  - !ruby 
-    value: "`20`"
-    checked: true
-  - !ruby 
-    value: "`true`"
-    checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`"numero"`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`8`"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`16`"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`20`"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`true`"
+  checked: false
 name: "¿Y esto cuánto vale?"
