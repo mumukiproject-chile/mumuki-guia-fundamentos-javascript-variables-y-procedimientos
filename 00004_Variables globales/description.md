@@ -35,5 +35,8 @@ function puedeLlevar(pesoEquipaje) {
 
 > Veamos si queda claro: escribe una función `ascensorSobrecargado` que tome una cantidad de personas y diga si entre todos superan la carga máxima del ascensor.
 > 
-> Ten en cuenta que se estima que la carga máxima del ascensor es 300 kg y que el peso promedio por persona es una variable global: `pesoPromedioPersonaEnKilogramos`.
+> Ten en cuenta que nuestra función va a utilizar dos variables globales:
+>
+* `pesoPromedioPersonaEnKilogramos`, la cual ya está declarada,
+* `cargaMaximaEnKilogramos` que vas a tener que declarar.
 

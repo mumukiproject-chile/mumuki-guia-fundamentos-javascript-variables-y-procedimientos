@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ascensorSobrecargado
+  inspection: Uses:pesoPromedioPersonaEnKilogramos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ascensorSobrecargado
+  inspection: Uses:cargaMaximaEnKilogramos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:ascensorSobrecargado
