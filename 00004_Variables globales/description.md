@@ -33,7 +33,7 @@ function puedeLlevar(pesoEquipaje) {
 }
 ```
 
-> Veamos si queda claro: escribe una función `ascensorSobrecargado` que tome una cantidad de personas y diga si entre todos superan la carga máxima del ascensor.
+> Veamos si queda claro: escribe una función `ascensorSobrecargado` que tome una cantidad de personas y diga si entre todos superan la carga máxima de 300 kg.
 > 
 > Ten en cuenta que nuestra función va a utilizar dos variables globales:
 >
